@@ -1,0 +1,7 @@
+.line {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

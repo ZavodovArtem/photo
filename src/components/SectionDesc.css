@@ -1,0 +1,29 @@
+.description {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+
+.oneText {
+    position: absolute;
+    margin-top: 50px;
+    width: 400px;
+    word-wrap: break-word;
+    
+}
+
+.twoText{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 600px;
+    width: 400px;
+    word-wrap: break-word;
+}
+
+.description-two{
+    display: flex;
+    justify-content: space-between;
+    /* height: 200px; */
+    margin-top: 200px;
+}

@@ -1,0 +1,31 @@
+.header {
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: center;
+    align-items: end;
+}
+.header-h1{
+    margin-top: 100px;
+    margin-right: 20px;
+
+    
+}
+.header-line {
+    margin-top: -10px;
+}
+
+.name {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+    align-items: center;
+}
+.name-img {
+    margin-left: -10px;
+}
+.name-abba {
+    margin-bottom: -10px;
+}
