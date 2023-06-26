@@ -1,0 +1,8 @@
+.by {
+    display: flex;
+    justify-content: right;
+}
+.by-p{
+    font-family: 'Kaisei Opti', serif;
+    font-size: 16px;
+}

@@ -9,6 +9,15 @@
 }
 
 .me-photo {
-    width: 500px;
-    height: 300px;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    outline: none;
+
+}
+
+.me-p {
+    font-size: 24px;
+    font-family: 'Kaisei Opti', serif;
+    margin-bottom: -10px;
 }

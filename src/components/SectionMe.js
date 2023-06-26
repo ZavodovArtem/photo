@@ -11,11 +11,11 @@ function SectionMe () {
             <img className='me-photo' src={photoMe} />
 
             <div>
-                sdfsdf
+                <p className='me-p'>erfguergf</p>
                 <br />
-                sdfsdf
+                <p className='me-p'>sdfewrferf</p>
                 <br />
-                sdfdsf
+                <p className='me-p'>sdfsdfsdf</p>
             </div>
 
         </div>

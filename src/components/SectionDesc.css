@@ -10,6 +10,8 @@
     margin-top: 50px;
     width: 400px;
     word-wrap: break-word;
+    font-size: 16px;
+    font-family: 'Kaisei Opti', serif;
     
 }
 
@@ -19,6 +21,8 @@
     margin-left: 600px;
     width: 400px;
     word-wrap: break-word;
+    font-size: 16px;
+    font-family: 'Kaisei Opti', serif;
 }
 
 .description-two{
