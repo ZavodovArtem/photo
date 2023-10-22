@@ -15,8 +15,8 @@ function Header () {
         </div>
         <div className='name'>
             <div>
-                <p className='name-photograph'>Artiom <br /> Zavodov</p>
-                <p className='name-abba'>zavodov.ph</p>
+                <p className='name-photograph'>Anna <br /> Volynskaya</p>
+                <p className='name-abba'>volynskaya.ph</p>
                 <img className='name-img' src={nameLine} />
             </div>
             <div>

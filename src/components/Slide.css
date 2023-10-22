@@ -1,6 +1,6 @@
 .slider {
     position: relative;
-    width: 100%;
+    width: 767px;
     height: 500px;
     margin: auto;
     box-sizing: border-box;
@@ -27,3 +27,4 @@
     transform: translateX(100%);
     
   }
+  

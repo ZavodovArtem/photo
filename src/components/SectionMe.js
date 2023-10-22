@@ -2,20 +2,20 @@ import './Header.css'
 import '../App.css'
 import './SectionMe.css'
 import photoMe from '../img/section-me.jpg'
-
+import me from '../img/me.jpeg'
 
 function SectionMe () {
     return (
         <>
         <div className='me'>
-            <img className='me-photo' src={photoMe} />
+            <img className='me-photo' src={me} />
 
             <div>
-                <p className='me-p'>erfguergf</p>
+                <p className='me-p'>DREAM</p>
                 <br />
-                <p className='me-p'>sdfewrferf</p>
+                <p className='me-p'>BEAUTY</p>
                 <br />
-                <p className='me-p'>sdfsdfsdf</p>
+                <p className='me-p'>INSPIRATION</p>
             </div>
 
         </div>
